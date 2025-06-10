@@ -12,6 +12,6 @@ A basic Movie App built just for fun and to practice full-stack development. Thi
 ## 🛠 Tech Stack
 
 - **Frontend:** React
-- **API Integration:** [TMDB API]([https://www.themoviedb.org/settings/api](https://www.themoviedb.org/)) 
+- **API Integration:** [TMDB API](https://www.themoviedb.org/) 
 
 
